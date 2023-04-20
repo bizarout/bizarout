@@ -6,41 +6,51 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-
-
-### John Doe
+### Hamid Bezzout
 
 #### About Me
-I am a full-stack web developer with over 5 years of experience. I have a strong background in JavaScript, React, and Node.js, and have worked on projects for clients in a variety of industries, including finance, healthcare, and education. In my free time, I enjoy hiking and reading.
+I am a researcher and developer in the field of artificial intelligence, with a focus on machine learning and deep learning. I have extensive experience working with popular machine learning frameworks such as TensorFlow, Keras, and scikit-learn. In addition, I am also a proficient React.js and Django developer.
 
 #### Stats
 Here are some stats that showcase my skills and experience:
 
 - **Programming Languages**: 
-![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow)
 ![Python Icon](https://img.shields.io/badge/-Python-blue)
-![HTML/CSS Icon](https://img.shields.io/badge/-HTML/CSS-orange)
+![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow)
 
-- **Frameworks/Libraries**: 
+- **Machine Learning Frameworks**: 
+![TensorFlow Icon](https://img.shields.io/badge/-TensorFlow-orange)
+![Keras Icon](https://img.shields.io/badge/-Keras-red)
+![scikit-learn Icon](https://img.shields.io/badge/-scikit--learn-lightgrey)
+
+- **Web Development Frameworks**: 
 ![React Icon](https://img.shields.io/badge/-React-blue)
-![Node.js Icon](https://img.shields.io/badge/-Node.js-green)
-![Express Icon](https://img.shields.io/badge/-Express-lightgrey)
+![Django Icon](https://img.shields.io/badge/-Django-green)
 
-- **GitHub Stats**: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+#### Publications and Conferences
+Here is a list of my publications and conference presentations:
 
-#### Projects
-Here are some of the projects I have worked on:
+- **Journal Articles**
+    1. Example Publication 1
+    2. Example Publication 2
+    3. Example Publication 3
 
-##### Project 1: Financial Dashboard
-Brief description of the project.
+- **Conference Papers**
+    1. Example Conference Paper 1
+    2. Example Conference Paper 2
+    3. Example Conference Paper 3
 
-- **Technologies Used**: React, Node.js, PostgreSQL
-- **Features**: Real-time data visualization, user authentication
-- **Code Snippets**: 
-```javascript
-// Example JavaScript code snippet
-function calculateTotalExpenses(expenses) {
-  return expenses.reduce((total, expense) => total + expense.amount, 0);
-}
+#### Profiles
+Here are links to my professional profiles and accounts:
 
+- Scopus Profile: [![Scopus Icon](https://img.shields.io/badge/-Scopus-red)](https://www.scopus.com/authid/detail.uri?authorId=1234567890)
+- ResearchGate Profile: [![ResearchGate Icon](https://img.shields.io/badge/-ResearchGate-brightgreen)](https://www.researchgate.net/profile/Hamid-Bezzout)
+- Web of Science Profile: [![Web of Science Icon](https://img.shields.io/badge/-Web%20of%20Science-blue)](https://publons.com/researcher/1234567/hamid-bezzout/)
+- ORCID Profile: [![ORCID Icon](https://img.shields.io/badge/-ORCID-green)](https://orcid.org/0000-0000-0000-0000)
+
+#### Contact
+If you're interested in working with me or have any questions, feel free to reach out:
+
+- Email: [![Email Icon](https://img.shields.io/badge/-Email-critical)](mailto:hamid.bezzout@email.com)
+- LinkedIn: [![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hamidbezzout/)
+- GitHub: [![GitHub Icon](https://img.shields.io/badge/-GitHub-black)](https://github.com/hamidbezzout)
