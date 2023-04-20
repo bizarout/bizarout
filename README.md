@@ -54,3 +54,14 @@ If you're interested in working with me or have any questions, feel free to reac
 - Email: [![Email Icon](https://img.shields.io/badge/-Email-critical)](mailto:hamid.bezzout@email.com)
 - LinkedIn: [![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hamidbezzout/)
 - GitHub: [![GitHub Icon](https://img.shields.io/badge/-GitHub-black)](https://github.com/hamidbezzout)
+
+
+
+
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
