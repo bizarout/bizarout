@@ -6,7 +6,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-### Hamid Bezzout
+### Dr. H. Bezzout
 
 #### About Me
 I am a researcher and developer in the field of artificial intelligence, with a focus on machine learning and deep learning. I have extensive experience working with popular machine learning frameworks such as TensorFlow, Keras, and scikit-learn. In addition, I am also a proficient React.js and Django developer.
